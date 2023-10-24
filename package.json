@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "demo": "node script.js"
+    "demo": "node script.js",
+    "demo-multi-lines": "node script-multilines.js"
   },
   "keywords": [],
   "author": "",
